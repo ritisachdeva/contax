@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/56e95cbd5fced9c543d3523fc98f62009a8c2760/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff6cdf922080c0735b2282e1eb91c4c9202ce5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/b66bd517189b7ff463da13b98bab8290af3513cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_732dc35d9ab8fed09e95bfdfca9a3b6a9909e80b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/8cc2bfa6cfb197e6650febf64596e44c45565ecd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1afe240034b1ddc278cb6118e28aec63e90ad3ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/98d61f11634c7f9e7a6d6b5456c9d35a3df8a10f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c27369bfec22f9de9c68e12eee0eea192495d66a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_82ed51d6a030ca0a72a944450f7883244549199e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/3a8f4769b990eea9174b2a4a0cdb14b7eb28dd91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d305aeeea67bb78dca7c8ce10dc5cf4a1d2f81f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b8796305b02c5f8ae3c1c2b7cebe65b8a31a400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_506dab4a83954e8649efee1fa63b4f2897302352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/cbfe54e6620dcdeb903c71c75f0f84bf8ccb1e89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_396d828bd7f1ebb88b95d3bdd2075e4e0ca5dcc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/980f97e90eb0213f4bfc21ba9e9f1ecbde76b2f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4df5cbb721902be87f5b07cf46d7d95a1cb6826c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_4c4961401386ab8d413ebb3989c915fbacd894de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/e143206c8a9f9ad38ddb50d0c464274f5fbd3737/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3025610e1c0da078d9ac87f24adc7d41e101ab03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_8d831181d6082b68fbee2ff712a49d4858e3a19d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/048cbd6fbc1847d57587cda315543bc529e1d8bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bb36b8d64793bddd4be4c964e801d901688c256/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.0_0e679d67cb8c81c22acc4e09feb68fdec56820ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/e66c18c0d32cce77f7c65b2d8f9f2f0f605d2e23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8664181c597aa3c8f7a508af00d4ab9db56b3061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="792f51883499a422eee48269eff70d73bacd31e9">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42576c30a98af4d60a1dccea6a90ca7cffdb4114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/da29247a24dc9c98d25cbb562da9fceb374c23c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_199912d7598d78db740e536f4e065f304136b981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.android/build-cache/8bd0ad1f1b61bc3fa9de7735b971e516448753aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_690949151732f11d2106713a1d38c686dccfbd4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ritisachdeva/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/Users/ritisachdeva/Downloads/Contax2/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.0_c19ce7fc36c22a2b1e556111c50d2a8963c0e803/classes.dex" />
+    </item>
+
+</items>
